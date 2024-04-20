@@ -23,7 +23,7 @@ This project is a simple To-Do application built using React.js. It allows users
 * Mark tasks as completed
 * Delete tasks
 
-### Built With
+## Built With
 
 * [React.js](https://reactjs.org/) - JavaScript library for building user interfaces
 * [Bootstrap](https://getbootstrap.com/) - CSS framework for building responsive and mobile-first websites
